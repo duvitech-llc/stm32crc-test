@@ -1,0 +1,8 @@
+/Debug/
+/MDK-ARM/stm32crc-test/
+/MDK-ARM/DebugConfig
+/MDK-ARM/RTE
+/MDK-ARM/*.uvguix
+/MDK-ARM/*.uvoptx
+/MDK-ARM/*.bin
+/MDK-ARM/*.hex
